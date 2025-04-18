@@ -4,13 +4,13 @@ PATRONES DE DISEÑO:
 
 Los patrones de diseño en Node.js forman la base para crear aplicaciones robustas, reutilizables y fáciles de mantener. Conocerlos te permite entender mejor la arquitectura de tus programas y de las herramientas del ecosistema. 
 
-#¿Qué son los patrones de diseño y por qué importan en Node.js?
+# ¿Qué son los patrones de diseño y por qué importan en Node.js?
 
 Los patrones de diseño son abstracciones que facilitan escribir código reutilizable y estructurado. Dominar estos patrones te ayuda no solo a mejorar la calidad de tu código, sino también a captar rápidamente la arquitectura utilizada por frameworks populares y herramientas en el ecosistema de Node.js.
 
 Estos patrones te brindan una forma consistente de resolver problemas comunes, y disminuyen la dificultad al incorporar nuevas tecnologías o proyectos existentes, favoreciendo una curva de aprendizaje más sencilla al enfrentar código nuevo.
 
-#¿Cuáles son los patrones principales en Node.js?
+# ¿Cuáles son los patrones principales en Node.js?
 
 En Node.js algunos patrones cobran mayor relevancia debido a la naturaleza del lenguaje y su ecosistema amplio y diverso. Entre estos destacan:
 
@@ -26,7 +26,7 @@ Patrón Decorator: Gana popularidad rápidamente, especialmente en sistemas de p
 
 Patrón de Inyección de Dependencias: Presente en frameworks avanzados como Next.js, promueve un acoplamiento más flexible entre componentes.
 
-¿Cómo influyen los módulos en Node.js?
+# ¿Cómo influyen los módulos en Node.js?
 
 En Node.js, absolutamente todo está orientado hacia módulos, ya sean ESM (ECMAScript Modules) o CommonJS, representando el patrón más fundamental a nivel arquitectónico del lenguaje y plataforma. Los módulos facilitan organizar, estructurar y reutilizar código, siendo una parte esencial del día a día del desarrollo en Node.js.
 
