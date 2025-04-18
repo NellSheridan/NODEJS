@@ -1,7 +1,5 @@
 # NODEJS
 
-PATRONES DE DISEÑO:
-
 Los patrones de diseño en Node.js forman la base para crear aplicaciones robustas, reutilizables y fáciles de mantener. Conocerlos te permite entender mejor la arquitectura de tus programas y de las herramientas del ecosistema. 
 
 # ¿Qué son los patrones de diseño y por qué importan en Node.js?
